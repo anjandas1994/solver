@@ -1,0 +1,53 @@
+[
+  {
+    "title": "SQL book",
+    "author": "Parker",
+    "publishedDate": "2018-02-22",
+    "isbn": "981483029127",
+    "reviews": [
+      {
+        "reviewerName": "John",
+        "content": "The content is really good",
+        "rating": 4.0,
+        "publishedDate": "2018-02-28"
+      },
+      {
+        "reviewerName": "Mike",
+        "content": "Very informative",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "title": "Java book",
+    "author": "Ronald",
+    "publishedDate": "2019-02-01",
+    "isbn": "857300923712",
+    "reviews": [
+      {
+        "reviewerName": "Johnson",
+        "content": "Books for advance programmer",
+        "rating": 3.0,
+        "publishedDate": "2019-03-02"
+      },
+      {
+        "reviewerName": "Mike",
+        "content": "Nice topics",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "title": "Web application book",
+    "author": "Ron",
+    "publishedDate": "2017-02-01",
+    "isbn": "35870923712",
+    "reviews": [
+      {
+        "reviewerName": "Leonard",
+        "content": "There are some topic that has been deprecated",
+        "rating": 2.0
+      }
+    ]
+  }
+]
